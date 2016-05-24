@@ -14,7 +14,7 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.PBEKeySpec;
 import javax.crypto.spec.SecretKeySpec;
 import javax.print.DocFlavor.STRING;
-
+// this is my second commit
 import org.apache.commons.codec.binary.Base64;
 public class AES
 {
